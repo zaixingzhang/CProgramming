@@ -1,2 +1,2 @@
 # CProgramming
-C Programming
+Learning C Programming
